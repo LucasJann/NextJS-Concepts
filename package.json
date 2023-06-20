@@ -1,6 +1,6 @@
 {
-  "name": "my-next-app",
-  "version": "1.0.0",
+  "name": "nextjs-course",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
